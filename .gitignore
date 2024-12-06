@@ -41,3 +41,6 @@ node_modules/
 /playwright/.cache/
 
 *storybook.log
+
+# Sentry Config File
+.env.sentry-build-plugin
